@@ -3,5 +3,4 @@ plotly
 pandas
 scikit-learn
 numpy
-pmdarima
-requests
+pmdarima==1.8.5
